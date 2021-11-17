@@ -1,2 +1,2 @@
-# -Dimensionality-Reduction-Week5
+# Dimensionality Reduction-Week5
 Week 5
